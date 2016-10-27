@@ -1,6 +1,0 @@
-C:\Users\Thomas\Desktop\Programming\Version-Control\Lab03\Lab03\bin\Debug\Lab03.exe.config
-C:\Users\Thomas\Desktop\Programming\Version-Control\Lab03\Lab03\bin\Debug\Lab03.exe
-C:\Users\Thomas\Desktop\Programming\Version-Control\Lab03\Lab03\bin\Debug\Lab03.pdb
-C:\Users\Thomas\Desktop\Programming\Version-Control\Lab03\Lab03\obj\Debug\Lab03.csprojResolveAssemblyReference.cache
-C:\Users\Thomas\Desktop\Programming\Version-Control\Lab03\Lab03\obj\Debug\Lab03.exe
-C:\Users\Thomas\Desktop\Programming\Version-Control\Lab03\Lab03\obj\Debug\Lab03.pdb
